@@ -1,0 +1,1 @@
+(define-package "zotelo" "20150324.704" "Manage Zotero collections from emacs" 'nil :url "https://github.com/vitoshka/zotelo" :keywords '("zotero" "emacs" "reftex" "bibtex" "mozrepl" "bibliography manager"))
